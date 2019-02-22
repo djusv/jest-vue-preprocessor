@@ -5732,9 +5732,10 @@ vue-template-compiler@2.5.15:
     de-indent "^1.0.2"
     he "^1.1.0"
 
-vue-template-es2015-compiler@1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
+vue-template-es2015-compiler@1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.0.tgz#88f94663540bb2798d3e9018538e1255033700cd"
+  integrity sha512-daCQZUxBC8nFHkEHRYDA8Zn90T+FxJ4R3zOcn/G8HAxdJK304T+Qtw/ui5Qg8L/Rg7fUQ4ZE4wvgESlR/LArxg==
 
 vue@2.5.15:
   version "2.5.15"
