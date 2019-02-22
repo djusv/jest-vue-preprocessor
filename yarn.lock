@@ -5725,9 +5725,10 @@ vue-property-decorator@6.1.0:
     reflect-metadata "^0.1.10"
     vue-class-component "^6.1.0"
 
-vue-template-compiler@2.5.15:
-  version "2.5.15"
-  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.5.15.tgz#cc004097e37167be8b85ea22ab2840d8e8cca1c0"
+vue-template-compiler@2.6.7:
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.7.tgz#7f6c14eacf3c912d28d33b029cde706d9756e00c"
+  integrity sha512-ZjxJLr6Lw2gj6aQGKwBWTxVNNd28/qggIdwvr5ushrUHUvqgbHD0xusOVP2yRxT4pX3wRIJ2LfxjgFT41dEtoQ==
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -5736,9 +5737,10 @@ vue-template-es2015-compiler@1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
-vue@2.5.15:
-  version "2.5.15"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.15.tgz#fdb67861dde967cd8d1b53116380f2f269b45202"
+vue@2.6.7:
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.7.tgz#254f188e7621d2d19ee28d0c0442c6d21b53ae2d"
+  integrity sha512-g7ADfQ82QU+j6F/bVDioVQf2ccIMYLuR4E8ev+RsDBlmwRkhGO3HhgF4PF9vpwjdPpxyb1zzLur2nQ2oIMAMEg==
 
 w3c-hr-time@^1.0.1:
   version "1.0.1"
